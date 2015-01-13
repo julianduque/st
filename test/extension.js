@@ -1,6 +1,6 @@
-// autocomplete the following extensions
+// autocomplete the following extension
 global.options = {
-  extensions: [ 'js', 'md' ]
+  extension: 'js'
 }
 
 // otherwise just the same as basic.
